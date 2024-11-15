@@ -6,7 +6,7 @@ A full-stack Contact Management application that enables users to manage contact
 
 ## Live Demo
 
-Access the live application [here](https://contact-management-final.vercel.app/).
+Access the live application [Click here](https://contact-management-final.vercel.app/).
 
 ![Contact Management App Homepage](./contact%20Management.png)
 
